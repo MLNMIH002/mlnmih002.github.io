@@ -1,0 +1,6 @@
+It involves building a model on Keras.
+The process involves Loading and Cleaning the Dataset, checking how many data points we have.
+Check the dataset for any missing values, Splitting data into predictors and target
+Splitting the dataset into training and testing sets respectively, which are mutually exclusive. After which, we train with the training set and test with the testing set.
+Building a baseline model which involves building a Neural Network, fitting the model in training data and evaluated it using test data.
+Normalizing the data, Increasing the number of epochs, Increasing the number of hidden layers.
