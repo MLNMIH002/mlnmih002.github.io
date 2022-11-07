@@ -1,0 +1,3 @@
+Crack detection has vital importance for structural health monitoring and inspection.
+In this project, a classifier using a pre-trained model that would detect cracks in images of concrete is built.
+For problem formulation, images of cracked concrete are denoted as the positive class and images of concrete with no cracks as the negative class.
